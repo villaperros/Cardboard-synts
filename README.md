@@ -1,6 +1,9 @@
 # Cardboard-synts
 
-Joan Villaperros has created a modification on the code to add 2 arpegiators and 3 beat selectors, you can get the code on this repository, as well as We leave this process open to others who need to explore with this version. If you want to check the original code please chech:
+La Jauría has created this synth casd and Joan Villaperros has created a modification on the AUDUINO code to add 2 arpegiators and 3 beat selectors, you can get the code on this repository, as well as We leave this process open to others who need to explore with this version. 
+please check http://jugueteslajauria.blogspot.com to get more information and about the project. 
+
+If you want to check the original code please check:
 
 *Auduino 
 https://code.google.com/archive/p/tinkerit/wikis/Auduino.wiki
